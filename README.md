@@ -10,7 +10,6 @@
        alt="Waving hand" 
        width="25" />
 </p>
-<br><br>
 
 ```yaml
 𝗧𝗥𝗔𝗜𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
