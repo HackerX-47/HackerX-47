@@ -30,4 +30,9 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
   <img align="left" alt="Omkar's LinkedIn" width="28px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
+</div>
 
