@@ -11,3 +11,4 @@
   &nbsp;&nbsp;
   <img src="https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/other/dream-world/6.svg" alt="Charizard SVG" height="120" />
 </p>
+![Charizard](https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/versions/generation-v/black-white/animated/6.gif)
