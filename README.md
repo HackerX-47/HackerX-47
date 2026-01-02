@@ -19,7 +19,7 @@
 ɦɛʏ ȶɦɛʀɛ
 name: Omkar
 located_in: [Dhanbad, India 🇮🇳]
-position: [Student]
+position: [Undergrad]
 education: ["Bachelor's in Mathematics And Computing"]
 fields_of_interests: [Full-stack Development, Artificial Intelligence, Backend Systems]
 currently_learning: [C++, Python]
