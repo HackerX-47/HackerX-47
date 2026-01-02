@@ -16,7 +16,7 @@
 </a><br><br>
 
 ```yaml
-𝐔𝐬𝐞𝐫 𝐏𝐨𝐤𝐞𝐝𝐞𝐱
+𝗧𝗥𝗔𝗜𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
 name: Omkar
 located_in: [Dhanbad, India 🇮🇳]
 position: [Undergrad]
