@@ -23,6 +23,14 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ```
 ---
 
+### 🚀 About Me
+- 💻 Passionate about **Computer Science** & **Mathematics**: exploring AI, system design, and web development  
+- 🧠 Love solving **Leetcode & Math problems**  
+- 🌍 Enjoy **traveling** and learning about new topics  
+- 🎯 Aiming for top-tier tech roles with strong self-learning & discipline
+
+---
+
 ### 🧰 Tech I’m Learning
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
