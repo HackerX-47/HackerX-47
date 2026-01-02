@@ -2,5 +2,6 @@
   <img src="https://play.pokemonshowdown.com/sprites/xyani/charizard.gif" width="200">
 </div>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F97316&width=600&lines=Hey+there+👋" />
+  <img src="assets/hey-there.png" width="500"/>
 </p>
+
