@@ -14,5 +14,7 @@
   <img align="left" alt="Omkar's LinkedIn" width="22px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a>
+<span> <b>Omkar</b> — Undergrad at <b>NIT Durgapur</b> (Mathematics & Computing) <br> Passionate about <b>Competitive Programming</b> & <b>Open Source Contributions</b> 
+</span>
 
 
