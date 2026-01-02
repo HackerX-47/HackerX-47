@@ -14,6 +14,7 @@
   <img align="left" alt="Omkar's LinkedIn" width="28px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a><br><br>
+
 ```yaml
 name: Omkar
 located_in: [Dhanbad, India 🇮🇳]
