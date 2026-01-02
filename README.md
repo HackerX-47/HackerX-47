@@ -10,3 +10,6 @@
        alt="Waving hand" 
        width="25" />
 </p>
+<a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
+  <img align="left" alt="Omkar's LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
