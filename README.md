@@ -22,6 +22,9 @@ currently_learning: [C++]
 will_learn: [Python, Machine Learning]
 hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ```
+### 🧰 Tech I’m Learning
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
