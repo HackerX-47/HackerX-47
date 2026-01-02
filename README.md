@@ -11,6 +11,9 @@
        width="25" />
 </p>
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
-  <img align="left" alt="Omkar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+  <img align="left" alt="Omkar's LinkedIn" width="22px" 
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+       style="filter: invert(27%) sepia(94%) saturate(749%) hue-rotate(176deg) brightness(92%) contrast(92%);" />
 </a>
+
 
