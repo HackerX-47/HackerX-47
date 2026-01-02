@@ -14,13 +14,13 @@
   <img align="left" alt="Omkar's LinkedIn" width="28px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a><br><br>
-<span> I'm <b>Omkar</b> 👋, undergrad at <b>NIT Durgapur</b> (Mathematics & Computing). <br>I am Passionate about <b>Competitive Programming</b> & <b>Open Source Contributions.</b> 
-</span>
-
----
-
-### 🧰 Tech I’m Learning
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-
-
+```yaml
+name: Omkar
+located_in: [Dhanbad, India 🇮🇳]
+position: [Student]
+education: ["Bachelor's in Mathematics And Computing"]
+fields_of_interests: [Full-stack Development, Artificial Intelligence, Backend Systems]
+currently_learning: [C++, Python]
+will_learn: [Machine Learning]
+hobbies: [Competitive Programming, Building Side Projects, Badminton]
+```
