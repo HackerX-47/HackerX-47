@@ -16,7 +16,7 @@
 </a><br><br>
 
 ```yaml
-User Pokedex
+𝐔𝐬𝐞𝐫 𝐏𝐨𝐤𝐞𝐝𝐞𝐱
 name: Omkar
 located_in: [Dhanbad, India 🇮🇳]
 position: [Undergrad]
