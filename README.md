@@ -12,3 +12,10 @@
   <img src="https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/other/dream-world/6.svg" alt="Charizard SVG" height="120" />
 </p>
 ![Charizard](https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/versions/generation-v/black-white/animated/6.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/Trainer-Omkar-orange?style=for-the-badge&logo=pokemon&logoColor=white" alt="Trainer badge" />
+</p>
+
+<p align="center">
+  <img src="https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard animated" />
+</p>
