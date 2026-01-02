@@ -21,9 +21,13 @@ region: [NIT Durgapur]
 currently_learning: [C++]
 hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ```
+---
+
 ### 🧰 Tech I’m Learning
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+
+---
 
 ### 📊 Project Highlight
 Here are some small projects made by me:
@@ -31,6 +35,8 @@ Here are some small projects made by me:
 - 🧠 [Guess the Number](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Guess_the_Number)
 - ❌ [Tic-Tac-Toe](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Tic-Tac-Toe_Game)
 - 🧮 [Matrix calculator](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Matrix_Calculator)
+
+---
 
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
