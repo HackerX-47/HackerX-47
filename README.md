@@ -20,7 +20,8 @@
 name: Omkar
 located_in: [Dhanbad, India 🇮🇳]
 position: [Undergrad]
-education: ["Bachelor's in Mathematics And Computing"]
+education: [Bachelor in Mathematics And Computing]
+region: [NIT Durgapur]
 fields_of_interests: [Full-stack Development, Artificial Intelligence, Backend Systems]
 currently_learning: [C++, Python]
 will_learn: [Machine Learning]
