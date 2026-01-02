@@ -11,7 +11,7 @@
        width="25" />
 </p>
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
-  <img align="left" alt="Omkar's LinkedIn" width="25px" 
+  <img align="left" alt="Omkar's LinkedIn" width="28px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a><br><br>
 <span> I'm <b>Omkar</b> 👋, undergrad at <b>NIT Durgapur</b> (Mathematics & Computing). <br>I am Passionate about <b>Competitive Programming</b> & <b>Open Source Contributions.</b> 
