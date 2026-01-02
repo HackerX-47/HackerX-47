@@ -19,7 +19,6 @@ position: [Undergrad]
 education: [Bachelor in Mathematics And Computing]
 region: [NIT Durgapur]
 currently_learning: [C++]
-will_learn: [Python, Machine Learning]
 hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ```
 ### 🧰 Tech I’m Learning
