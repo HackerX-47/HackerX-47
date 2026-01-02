@@ -16,7 +16,9 @@
 </a><br><br>
 <span> I'm <b>Omkar</b> 👋, undergrad at <b>NIT Durgapur</b> (Mathematics & Computing). <br>I am Passionate about <b>Competitive Programming</b> & <b>Open Source Contributions.</b> 
 </span>
-<br><br>
+
+---
+
 ### 🧰 Tech I’m Learning
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
