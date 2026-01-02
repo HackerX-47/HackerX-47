@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
   <img align="left" alt="Omkar's LinkedIn" width="22px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
-</a>
+</a><br>
 <span> <b>Omkar</b> — Undergrad at <b>NIT Durgapur</b> (Mathematics & Computing) <br> Passionate about <b>Competitive Programming</b> & <b>Open Source Contributions</b> 
 </span>
 
