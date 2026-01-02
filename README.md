@@ -10,10 +10,7 @@
        alt="Waving hand" 
        width="25" />
 </p>
-<a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
-  <img align="left" alt="Omkar's LinkedIn" width="28px" 
-       src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
-</a><br><br>
+<br><br>
 
 ```yaml
 𝗧𝗥𝗔𝗜𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
@@ -27,4 +24,11 @@ currently_learning: [C++, Python]
 will_learn: [Machine Learning]
 hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ```
+---
+
+### 📫 Connect with Me
+<a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
+  <img align="left" alt="Omkar's LinkedIn" width="28px" 
+       src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
+</a>
 
