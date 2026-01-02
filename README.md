@@ -5,3 +5,10 @@
        width="200" 
        height="200" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" 
+       alt="Charizard pixel art" 
+       width="300" 
+       height="300" />
+</p>
+
