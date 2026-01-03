@@ -36,6 +36,7 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ---
 
 ### 🧰 Tech I’m Learning
+<!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp" />
@@ -45,9 +46,10 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ---
 
 ### 🤖 Technologies & Frameworks
+<!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows" /> 
   </a>
 </p>
 
@@ -63,11 +65,12 @@ Here are some small projects made by me:
 ---
 
 ### 📫 Connect with Me
+<!-- LinkedIn symbol -->
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
   <img align="left" alt="Omkar's LinkedIn" width="35px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a>
-<!-- 📧 Email -->
+<!-- Gmail -->
 <a href="mailto:omkar121207@gmail.com" target="_blank" rel="noopener" aria-label="Email Omkar">
   <img
     align="left"
