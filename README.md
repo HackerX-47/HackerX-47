@@ -72,7 +72,15 @@ Here are some small projects made by me:
     src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png"
   />
 </a>
-
+<!-- 📧 Email -->
+<a href="mailto:omkar121207@gmail.com" target="_blank" rel="noopener" aria-label="Email Omkar">
+  <img
+    align="left"
+    alt="Omkar's Gmail"
+    width="35px"
+    src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png"
+  />
+</a>
 
 <br>
 <div align="center">
