@@ -84,22 +84,6 @@ Here are some small projects made by me:
   />
 </a>
 
-<br>
-
-<br>
-
-<p align="right">
-  <a href="#top" title="Back to Top">
-    <img src="https://github.com/HackerX-47/HackerX-47/blob/main/download.png" 
-         alt="Back to Top" 
-         width="40" 
-         height="40" 
-         style="vertical-align:middle; border-radius:6px; transition:transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.1)';" 
-         onmouseout="this.style.transform='none';"/>
-  </a>
-</p>
-
 <br><br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
