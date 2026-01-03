@@ -63,6 +63,17 @@ Here are some small projects made by me:
   <img align="left" alt="Omkar's LinkedIn" width="28px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a>
+<!-- 📧 Email -->
+<a href="mailto:omkar121207@gmail.com" target="_blank" rel="noopener">
+  <img
+    align="left"
+    alt="Omkar's Email (Gmail)"
+    width="28px"
+    src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png"
+  />
+</a>
+
+
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
