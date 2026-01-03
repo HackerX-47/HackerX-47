@@ -68,10 +68,11 @@ Here are some small projects made by me:
   <img
     align="left"
     alt="Omkar's Gmail"
-    width="35px"
+    width="28px"
     src="https://img.icons8.com/color/48/gmail-new.png"
   />
 </a>
+
 
 
 <br>
