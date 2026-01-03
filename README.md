@@ -82,7 +82,7 @@ Here are some small projects made by me:
 
 <br><br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/HackerX_47?theme=unicorn&font=Saira%20Condensed)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HackerX_47?theme=unicorn&font=Kalam)
 
 <br><br>
 <div align="center">
