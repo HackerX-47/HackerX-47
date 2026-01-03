@@ -73,11 +73,6 @@ Here are some small projects made by me:
   />
 </a>
 
-[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:omkar121207@gmail.com)
-
-
-
-
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
