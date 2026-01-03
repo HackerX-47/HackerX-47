@@ -60,7 +60,7 @@ Here are some small projects made by me:
 
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
-  <img align="left" alt="Omkar's LinkedIn" width="28px" 
+  <img align="left" alt="Omkar's LinkedIn" width="35px" 
        src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
 </a>
 <!-- 📧 Email -->
@@ -68,7 +68,7 @@ Here are some small projects made by me:
   <img
     align="left"
     alt="Omkar's Email (Gmail)"
-    width="28px"
+    width="35px"
     src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png"
   />
 </a>
