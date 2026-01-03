@@ -1,3 +1,4 @@
+<!-- Visitor's Count -->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HackerX-47.HackerX47&left_color=darkviolet&right_color=forestgreen&left_text=%E1%B4%84%E1%B4%8F%E1%B4%9C%C9%B4%E1%B4%9B"  />
 </div>
@@ -19,6 +20,7 @@
        width="25" />
 </p>
 
+<!-- Trainer Info -->
 ```yaml
 𝗧𝗥𝗔𝗜𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
 name: Omkar
