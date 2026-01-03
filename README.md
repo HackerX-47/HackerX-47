@@ -1,3 +1,4 @@
+
 <!-- Charizard Animation -->
 <div align="center">
   <img src="https://play.pokemonshowdown.com/sprites/xyani/charizard.gif" width="200">
@@ -89,6 +90,9 @@ Here are some small projects made by me:
 <p align="right">
 <a href="#top">Back to top</a>
 </p>
+
+[![Up icon](https://img.icons8.com/ios-filled/50/000000/up.png)](https://github.com/HackerX-47)
+
 
 <br><br>
 <div align="center">
