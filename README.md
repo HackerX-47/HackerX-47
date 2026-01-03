@@ -80,7 +80,7 @@ Here are some small projects made by me:
   />
 </a>
 
-<br>
+<br><br>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HackerX_47)
 
