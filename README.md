@@ -73,6 +73,9 @@ Here are some small projects made by me:
   />
 </a>
 
+[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:omkar121207@gmail.com)
+
+
 
 
 <br>
