@@ -40,6 +40,15 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 
 ---
 
+### 🧰 Technologies & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+  </a>
+</p>
+
+---
+
 ### 📊 Project Highlight
 Here are some small projects made by me:
 - 🔢 [Sudoku Game](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Sudoku_Game)
