@@ -88,10 +88,6 @@ Here are some small projects made by me:
 <br>
 
 <p align="right">
-<a href="#top">Back to top</a>
-</p>
-
-<p alighn="right">
   <a href="#top" title="Back to Top">
     <img src="https://github.com/HackerX-47/HackerX-47/blob/main/download.png" 
          alt="Back to Top" 
