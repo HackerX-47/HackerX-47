@@ -32,8 +32,11 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ---
 
 ### 🧰 Tech I’m Learning
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++" />
+  </a>
+</p>
 
 ---
 
