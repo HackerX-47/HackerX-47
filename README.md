@@ -83,10 +83,13 @@ Here are some small projects made by me:
 <br><br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HackerX_47?theme=unicorn&font=Kalam)
+
 <br>
+
 <p align="right">
 <a href="#top">Back to top</a>
 </p>
+
 <br><br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Pokéball">
