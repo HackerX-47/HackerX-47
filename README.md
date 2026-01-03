@@ -43,7 +43,7 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ### 🤖 Technologies & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows" />
   </a>
 </p>
 
