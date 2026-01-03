@@ -84,9 +84,7 @@ Here are some small projects made by me:
   />
 </a>
 
-<br><br>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/HackerX_47?theme=unicorn&font=Kalam)
+<br>
 
 <br>
 
