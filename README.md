@@ -94,8 +94,8 @@ Here are some small projects made by me:
 <a href="#top" title="Back to Top">
   <img src="https://github.com/HackerX-47/HackerX-47/blob/main/download.png" 
        alt="Back to Top" 
-       width="30" 
-       height="30" 
+       width="40" 
+       height="40" 
        style="vertical-align:middle; border-radius:6px; transition:transform 0.2s;" 
        onmouseover="this.style.transform='scale(1.1)';" 
        onmouseout="this.style.transform='none';"/>
