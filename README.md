@@ -34,18 +34,14 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ---
 
 ### 🚀 About Me
-<table>
-<tr>
-<td style="border-left: 6px solid #39ff14; padding-left: 15px;">
+<img align="left" width="6" height="120" src="https://via.placeholder.com/6/39ff14/39ff14">
   
 - 💻 Passionate about **Computer Science** & **Mathematics**: exploring AI, system design, and web development  
 - 🧠 Love solving **Leetcode & Math problems**  
 - 🌍 Enjoy **traveling** and learning about new topics  
 - 🎯 Aiming for top-tier tech roles with strong self-learning & discipline
   
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
