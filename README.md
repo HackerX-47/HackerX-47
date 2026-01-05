@@ -34,6 +34,7 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 ---
 
 ### 🚀 About Me
+
 <img align="left" width="6" height="120" src="https://via.placeholder.com/6/39ff14/39ff14">
   
 - 💻 Passionate about **Computer Science** & **Mathematics**: exploring AI, system design, and web development  
