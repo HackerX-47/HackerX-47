@@ -35,7 +35,7 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 
 ### 🚀 About Me
 
-<img src="https://dummyimage.com/6x120/b026ff/b026ff" align="left"/>
+<img src="https://dummyimage.com/5x110/b026ff/b026ff" align="left"/>
 
 - 💻 Passionate about **Computer Science** & **Mathematics**: exploring AI, system design, and web development  
 - 🧠 Love solving **Leetcode & Math problems**
