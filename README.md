@@ -23,7 +23,7 @@
 <!-- Trainer Info -->
 ```yaml
 𝗧𝗥𝗔𝗜𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
-name: omkar
+name:omkar
 located_in: [Dhanbad, India 🇮🇳]
 position: [Undergrad]
 education: [Bachelor in Mathematics And Computing]
