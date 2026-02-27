@@ -58,7 +58,7 @@ hobbies: [Competitive Programming, Building Side Projects, Badminton]
 <!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows" /> 
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows,linux,ubuntu" /> 
   </a>
 </p>
 
