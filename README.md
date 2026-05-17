@@ -29,7 +29,7 @@ position: [Undergrad]
 education: [Bachelor in Mathematics And Computing]
 region: [NIT Durgapur]
 currently_learning: [C++]
-hobbies: [Competitive Programming, Building Side Projects, Badminton]
+hobbies: [Sleeping, Building Side Projects, Badminton]
 ```
 ---
 
