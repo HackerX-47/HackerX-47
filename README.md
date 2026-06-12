@@ -33,28 +33,28 @@ hobbies: [Sleeping, Building Side Projects, Badminton]
 ```
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💻 Passionate about **Computer Science** & **Mathematics**: exploring AI, system design, and web development  
-- 🧠 Love solving **Leetcode & Math problems**
-- 🌍 Enjoy **traveling** and learning about new topics  
-- 🎯 Aiming for top-tier tech roles with strong self-learning & discipline
+- Passionate about **Computer Science** & **Mathematics**: exploring AI, system design, and web development  
+- Love solving **Leetcode & Math problems**
+- Enjoy **traveling** and learning about new topics  
+- Aiming for top-tier tech roles with strong self-learning & discipline
   
 <br clear="left"/>
 
 ---
 
-### 🧰 Tech I’m Learning
+### Tech I’m Learning
 <!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html, python" />
   </a>
 </p>
 
 ---
 
-### 🤖 Technologies & Frameworks
+### Technologies & Frameworks
 <!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -64,7 +64,7 @@ hobbies: [Sleeping, Building Side Projects, Badminton]
 
 ---
 
-### 📊 Project Highlight
+### Project Highlight
 Here are some small projects made by me:
 - 🔢 [Sudoku Game](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Sudoku_Game)
 - 🧠 [Guess the Number](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Guess_the_Number)
@@ -73,7 +73,7 @@ Here are some small projects made by me:
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 <!-- LinkedIn symbol -->
 <a href="https://www.linkedin.com/in/omkar-singh-hackerx47/" target="_blank">
   <img align="left" alt="Omkar's LinkedIn" width="35px" 
