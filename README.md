@@ -48,7 +48,7 @@ hobbies: [Sleeping, Building Side Projects, Badminton]
 <!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,python" />
+    <img src="https://skillicons.dev/icons?i=ps,c,cpp,html,py" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ hobbies: [Sleeping, Building Side Projects, Badminton]
 <!-- Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows,linux,ubuntu" /> 
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,windows,linux,ubuntu,anaconda" /> 
   </a>
 </p>
 
