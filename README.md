@@ -66,7 +66,7 @@ hobbies: [Sleeping, Building Side Projects, Badminton]
 
 ### Project Highlight
 Here are some small projects made by me:
-- 🔢 [Sudoku Game](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Sudoku_Game)
+- 🔢 [mnist-neural-network](https://github.com/HackerX-47/mnist-neural-network)
 - 🧠 [Guess the Number](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Guess_the_Number)
 - ❌ [Tic-Tac-Toe](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Tic-Tac-Toe_Game)
 - 🧮 [Matrix calculator](https://github.com/HackerX-47/C-Mini-Projects/tree/main/Matrix_Calculator)
