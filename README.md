@@ -21,7 +21,7 @@
 </p>
 
 <!-- Trainer Info -->
-```zsh
+```yaml
 𝗧𝗥𝗔𝗜𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
 name: Omkar
 located_in: [Dhanbad, India 🇮🇳]
